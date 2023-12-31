@@ -12,7 +12,7 @@ const Detail = () => {
       <div className="w-[860px]">
         <div className="grid sm:grid-cols-2 sm:gap-5 grid-cols-1 gap-3">
           <div>
-            <img src={image} alt="" />
+            <img className='w-full aspect-square object-cover' src={image} alt="" />
           </div>
           <div className="sm:col-span-1 sm:col-end-3">
             <div className="flex flex-col gap-2">
