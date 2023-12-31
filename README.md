@@ -1,5 +1,5 @@
 # Getting Started with React App
-**Reactjs version**	: `^18.2.0"` <br/>
+**Reactjs version**	: `^18.2.0` <br/>
 **Node version**    : `v14.15.5`
 1. Project menggunakan NPM. untuk menjalankannya gunakan `npm start`
 2. username dan password menggunakan data user yang diambil dari https://dummyjson.com/users <br />
